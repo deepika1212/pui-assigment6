@@ -8,7 +8,6 @@
         $recBtn,
   //stores the SpeechRecognition API functionality
         recognition,
-        speechRecognitionList,
 
         messageRecording = "Listening...",
         messageCouldntHear = "Ooops! I didn't hear you. I promise I will catch you this time.",
